@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "this is esparta", "this is esparta.csproj", "{0E422DC5-9777-10CC-D88C-AC0784408582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "this is esparta.Editor", "this is esparta.Editor.csproj", "{2ACCCC1D-1FA3-E23B-04BB-A131793F39FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E422DC5-9777-10CC-D88C-AC0784408582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E422DC5-9777-10CC-D88C-AC0784408582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E422DC5-9777-10CC-D88C-AC0784408582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E422DC5-9777-10CC-D88C-AC0784408582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACCCC1D-1FA3-E23B-04BB-A131793F39FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACCCC1D-1FA3-E23B-04BB-A131793F39FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACCCC1D-1FA3-E23B-04BB-A131793F39FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACCCC1D-1FA3-E23B-04BB-A131793F39FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
